@@ -35,7 +35,7 @@ I am a fullstack software engineer
 <br>
 
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Albert-Byrone&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=Albert-Byrone&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Albert-Byrone/Albert-Byrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
