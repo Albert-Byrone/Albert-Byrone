@@ -59,12 +59,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.92 %
-Bash         2 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-CSS          1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Python       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-HTML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript   5 hrs 40 mins   █████████████▓░░░░░░░░░░░   55.33 %
+Bash         2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+CSS          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
