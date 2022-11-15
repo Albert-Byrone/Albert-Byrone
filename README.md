@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 34 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
-YAML         1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-Docker       27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Markdown     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Bash         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-JavaScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Python       1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+YAML         1 hr 1 min      █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+HTML         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Markdown     24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Docker       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+JavaScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
