@@ -58,14 +58,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-HTML       1 hr 8 mins     █████████▓░░░░░░░░░░░░░░░   38.81 %
-YAML       32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-Python     23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Markdown   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Docker     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Ruby       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-```
 
 <!--END_SECTION:waka-->
 
