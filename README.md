@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.5%20million%20lines%20of%20code-blue)
 
@@ -87,13 +87,12 @@ Sunday                   432 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-PHP                      4 hrs 54 mins       █████████████████████████   99.21 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+PHP                      5 hrs 26 mins       █████████████████████████   99.42 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    4 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +108,5 @@ CSS                      18 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2023 21:21:59 UTC
+ Last Updated on 02/06/2023 22:21:33 UTC
 <!--END_SECTION:waka-->
