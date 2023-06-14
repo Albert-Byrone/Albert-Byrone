@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.5%20million%20lines%20of%20code-blue)
 
@@ -110,5 +110,5 @@ PHP                      5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2023 10:23:50 UTC
+ Last Updated on 14/06/2023 11:20:32 UTC
 <!--END_SECTION:waka-->
