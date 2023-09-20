@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.6%20million%20lines%20of%20code-blue)
 
@@ -87,11 +87,11 @@ Sunday                   432 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   35 mins             ████████████████████░░░░░   80.38 % 
-TOML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Python                   12 mins             █████████████████████████   98.78 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +107,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2023 21:24:21 UTC
+ Last Updated on 20/09/2023 22:23:01 UTC
 <!--END_SECTION:waka-->
