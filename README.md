@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.9%20million%20lines%20of%20code-blue)
 
@@ -87,13 +87,12 @@ Sunday                   498 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   2 hrs 8 mins        ███████████████████████░░   92.26 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   54 mins             ██████████████████░░░░░░░   72.08 % 
+JavaScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +108,5 @@ SCSS                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 21:25:28 UTC
+ Last Updated on 28/12/2023 22:26:01 UTC
 <!--END_SECTION:waka-->
