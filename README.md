@@ -1,8 +1,8 @@
 
 
 ### Hello World 👋
-I am a fullstack software engineer
-- 🔭 Working on multiple frontend and backend project using React and Python(Django and Flask)
+I am a full-stack software engineer
+- 🔭 Working on multiple frontend and backend projects using React and Python(Django and Flask)
 - 🌱 Learning design patterns in depth
 
 <br>
@@ -60,29 +60,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3532 commits        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌆 Daytime                4769 commits        ███████████░░░░░░░░░░░░░░   44.29 % 
-🌃 Evening                2435 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌙 Night                  31 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3027 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Tuesday                  2363 commits        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Wednesday                1658 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 2095 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Friday                   635 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Saturday                 484 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   505 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
 ```text
 🕑︎ Time Zone: Africa/Nairobi
 
@@ -105,8 +82,6 @@ HTML                     39 repos            ██░░░░░░░░░�
 TypeScript               9 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 SCSS                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
-
-
 
 
  Last Updated on 12/01/2024 09:28:23 UTC
