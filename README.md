@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
 
@@ -100,8 +100,8 @@ Linux                    16 hrs 25 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               214 repos           ██████████░░░░░░░░░░░░░░░   38.84 % 
-Python                   169 repos           ████████░░░░░░░░░░░░░░░░░   30.67 % 
+JavaScript               213 repos           ██████████░░░░░░░░░░░░░░░   38.66 % 
+Python                   170 repos           ████████░░░░░░░░░░░░░░░░░   30.85 % 
 HTML                     39 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 TypeScript               9 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 SCSS                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
@@ -110,5 +110,5 @@ SCSS                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 20:32:35 UTC
+ Last Updated on 23/01/2024 21:27:15 UTC
 <!--END_SECTION:waka-->
