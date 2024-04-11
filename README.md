@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2053%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.0%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -110,5 +108,5 @@ SCSS                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 20:28:50 UTC
+ Last Updated on 11/04/2024 21:28:14 UTC
 <!--END_SECTION:waka-->
