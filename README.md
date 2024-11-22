@@ -87,11 +87,10 @@ Sunday                   486 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        █████████████████████████   98.01 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +106,5 @@ SCSS                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2024 21:35:27 UTC
+ Last Updated on 22/11/2024 22:34:52 UTC
 <!--END_SECTION:waka-->
