@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.7%20million%20lines%20of%20code-blue)
 
@@ -87,10 +87,11 @@ Sunday                   486 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.00 % 
+JavaScript               15 mins             ████████████████░░░░░░░░░   63.59 % 
+JSON                     8 mins              █████████░░░░░░░░░░░░░░░░   36.41 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,5 +107,5 @@ SCSS                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 21:32:02 UTC
+ Last Updated on 28/12/2024 22:33:04 UTC
 <!--END_SECTION:waka-->
