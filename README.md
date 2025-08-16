@@ -87,11 +87,10 @@ Sunday                   504 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Bash                     8 mins              ████████████████████████░   97.62 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +106,5 @@ PHP                      6 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 21:36:05 UTC
+ Last Updated on 16/08/2025 22:40:23 UTC
 <!--END_SECTION:waka-->
