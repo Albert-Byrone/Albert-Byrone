@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.1%20million%20lines%20of%20code-blue)
 
@@ -87,11 +87,12 @@ Sunday                   504 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████░░░░░░░░   67.76 % 
-Bash                     3 mins              ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Bash                     9 mins              ███████████░░░░░░░░░░░░░░   43.90 % 
+Python                   6 mins              ████████░░░░░░░░░░░░░░░░░   30.87 % 
+JavaScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +108,5 @@ PHP                      6 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 21:39:08 UTC
+ Last Updated on 19/08/2025 22:36:58 UTC
 <!--END_SECTION:waka-->
