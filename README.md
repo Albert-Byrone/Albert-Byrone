@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C048%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.1%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -110,5 +108,5 @@ TypeScript               20 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 20:44:19 UTC
+ Last Updated on 03/10/2025 21:34:58 UTC
 <!--END_SECTION:waka-->
