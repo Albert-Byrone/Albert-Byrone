@@ -87,11 +87,10 @@ Sunday                   514 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Bash                     3 mins              ███████████████████░░░░░░   77.62 % 
-Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +106,5 @@ TypeScript               20 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 21:55:16 UTC
+ Last Updated on 05/02/2026 22:51:13 UTC
 <!--END_SECTION:waka-->
