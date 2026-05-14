@@ -56,42 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C153%20hrs%207%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.66%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3717 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-🌆 Daytime                4956 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                2387 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌙 Night                  37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3150 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-Tuesday                  2414 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Wednesday                1810 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 1950 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Friday                   721 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Saturday                 538 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Sunday                   514 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -106,5 +71,5 @@ TypeScript               21 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:48:26 UTC
+ Last Updated on 14/05/2026 22:34:57 UTC
 <!--END_SECTION:waka-->
