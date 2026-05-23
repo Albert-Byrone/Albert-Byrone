@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C208%20hrs%208%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.34%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -110,5 +108,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 21:15:40 UTC
+ Last Updated on 23/05/2026 22:16:03 UTC
 <!--END_SECTION:waka-->
