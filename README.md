@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C255%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -87,10 +87,14 @@ Sunday                   520 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
+Bash                     2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+TOML                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,5 +110,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 21:42:05 UTC
+ Last Updated on 11/06/2026 23:47:00 UTC
 <!--END_SECTION:waka-->
