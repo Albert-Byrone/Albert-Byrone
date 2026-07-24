@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.09%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -85,14 +87,14 @@ Sunday                   525 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 10 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
-Python                   8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
-TOML                     2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Bash                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Markdown                 13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.90 % 
+Python                   10 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   32.54 % 
+TOML                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Bash                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Linux                    27 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +110,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 21:27:27 UTC
+ Last Updated on 24/07/2026 23:24:00 UTC
 <!--END_SECTION:waka-->
