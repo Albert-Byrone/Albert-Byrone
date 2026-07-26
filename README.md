@@ -100,15 +100,15 @@ Linux                    30 hrs 45 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               319 repos           ██████████░░░░░░░░░░░░░░░   38.20 % 
-Python                   314 repos           █████████░░░░░░░░░░░░░░░░   37.60 % 
-TypeScript               23 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JavaScript               319 repos           ██████████░░░░░░░░░░░░░░░   38.25 % 
+Python                   314 repos           █████████░░░░░░░░░░░░░░░░   37.65 % 
+HTML                     55 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+TypeScript               23 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
 
 
- Last Updated on 26/07/2026 17:25:33 UTC
+ Last Updated on 26/07/2026 18:29:25 UTC
 <!--END_SECTION:waka-->
