@@ -56,7 +56,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C429%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -97,6 +99,32 @@ Other                    1 hr 28 mins        █░░░░░░░░░░�
 Linux                    32 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 27 hrs 49 mins (85.16%)
+
+✍️ 7,340 lines written by AI, 474 lines written by hand (93.93% AI-written)
+
+🔤 273,371,335 Input Tokens, 936,654 Output Tokens
+
+💵 $981.02 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 233 AI Prompts
+
+Opus                     3,408 lines         ████████████░░░░░░░░░░░░░   47.53 % 
+Fable                    2,341 lines         ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Deepseek                 980 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+GPT                      441 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.93% of written lines came from AI
+📚 Verbose Prompter — average 3,083 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 8.55% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,5 +138,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 15:02:04 UTC
+ Last Updated on 27/07/2026 17:22:29 UTC
 <!--END_SECTION:waka-->
