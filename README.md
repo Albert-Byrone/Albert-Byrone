@@ -62,69 +62,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.09%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3735 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
-🌆 Daytime                4999 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                2417 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3179 commits        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Tuesday                  2417 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Wednesday                1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Thursday                 1955 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Friday                   743 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Saturday                 554 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Sunday                   525 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Markdown                 9 hrs 36 mins       ██████████████░░░░░░░░░░░   57.74 % 
-Python                   5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.57 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Diff                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-
-💻 Operating System: 
-Linux                    16 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 20 mins (98.21%)
-
-✍️ 5,704 lines written by AI, 7 lines written by hand (99.88% AI-written)
-
-🔤 79,647,192 Input Tokens, 528,839 Output Tokens
-
-💵 $405.67 Estimated AI Cost This Week
-
-🧠 38 AI Sessions, 144 AI Prompts
-
-Opus                     4,369 lines         ███████████████████░░░░░░   75.46 % 
-GPT                      1,259 lines         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Grok                     98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Deepseek                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 1,920 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -138,5 +75,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 20:50:30 UTC
+ Last Updated on 08/08/2026 21:51:57 UTC
 <!--END_SECTION:waka-->
