@@ -89,40 +89,40 @@ Sunday                   530 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 10 hrs              █████████████░░░░░░░░░░░░   50.30 % 
-Python                   7 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-Docker                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown                 9 hrs 11 mins       ██████████████░░░░░░░░░░░   54.79 % 
+Python                   6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
+Docker                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Linux                    19 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 30 mins (97.98%)
+⏱ AI Coding Time: 16 hrs 30 mins (98.33%)
 
-✍️ 5,578 lines written by AI, 11 lines written by hand (99.8% AI-written)
+✍️ 4,177 lines written by AI, 10 lines written by hand (99.76% AI-written)
 
-🔤 27,795,350 Input Tokens, 587,016 Output Tokens
+🔤 25,950,690 Input Tokens, 549,340 Output Tokens
 
-💵 $191.16 Estimated AI Cost This Week
+💵 $182.06 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 167 AI Prompts
+🧠 31 AI Sessions, 138 AI Prompts
 
-Opus                     3,065 lines         █████████████░░░░░░░░░░░░   53.46 % 
-GPT                      2,506 lines         ███████████░░░░░░░░░░░░░░   43.71 % 
-Grok                     98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Deepseek                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Opus                     3,065 lines         ██████████████████░░░░░░░   71.81 % 
+GPT                      1,041 lines         ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Grok                     98 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Deepseek                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 3,093 characters per prompt
+🤖 AI-Driven — 99.76% of written lines came from AI
+📚 Verbose Prompter — average 3,568 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +138,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 22:16:17 UTC
+ Last Updated on 11/08/2026 23:07:37 UTC
 <!--END_SECTION:waka-->
