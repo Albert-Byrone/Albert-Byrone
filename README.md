@@ -89,28 +89,28 @@ Sunday                   535 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               5 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-Other                    5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Git                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+JavaScript               5 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+Markdown                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Other                    2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Git                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Linux                    16 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 54 mins (95.87%)
+⏱ AI Coding Time: 12 hrs 39 mins (94.86%)
 
 ✍️ 2,571 lines written by AI, 4 lines written by hand (99.84% AI-written)
 
-🔤 8,794,145 Input Tokens, 813,945 Output Tokens
+🔤 8,661,927 Input Tokens, 785,539 Output Tokens
 
-💵 $225.70 Estimated AI Cost This Week
+💵 $223.62 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 119 AI Prompts
+🧠 22 AI Sessions, 100 AI Prompts
 
 GPT                      1,650 lines         ████████████████░░░░░░░░░   64.08 % 
 Opus                     925 lines           █████████░░░░░░░░░░░░░░░░   35.92 % 
@@ -120,8 +120,8 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.84% of written lines came from AI
-📄 Detailed Prompter — average 1,156 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,042 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
@@ -138,5 +138,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 21:19:59 UTC
+ Last Updated on 05/09/2026 23:02:33 UTC
 <!--END_SECTION:waka-->
