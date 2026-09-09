@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C496%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C496%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2021%20mins-blue?style=flat)
 
@@ -89,36 +89,36 @@ Sunday                   535 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               5 hrs 20 mins       ██████████████████░░░░░░░   73.55 % 
-Other                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               5 hrs 20 mins       ███████████████████░░░░░░   75.96 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (92.0%)
+⏱ AI Coding Time: 6 hrs 24 mins (91.23%)
 
 ✍️ 420 lines written by AI, 4 lines written by hand (99.06% AI-written)
 
-🔤 5,399,339 Input Tokens, 391,917 Output Tokens
+🔤 4,788,055 Input Tokens, 375,033 Output Tokens
 
-💵 $132.37 Estimated AI Cost This Week
+💵 $126.06 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 10 AI Sessions, 49 AI Prompts
 
 GPT                      224 lines           █████████████░░░░░░░░░░░░   53.33 % 
 Opus                     196 lines           ████████████░░░░░░░░░░░░░   46.67 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.06% of written lines came from AI
-📄 Detailed Prompter — average 841 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 858 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
@@ -135,5 +135,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 22:06:13 UTC
+ Last Updated on 09/09/2026 00:20:38 UTC
 <!--END_SECTION:waka-->
