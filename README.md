@@ -89,37 +89,40 @@ Sunday                   535 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               5 hrs 20 mins       ███████████████████░░░░░░   75.96 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JavaScript               2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.02 % 
+JSON                     1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Bash                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 💻 Operating System: 
-Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 24 mins (91.23%)
+⏱ AI Coding Time: 6 hrs 7 mins (91.09%)
 
-✍️ 420 lines written by AI, 4 lines written by hand (99.06% AI-written)
+✍️ 1,446 lines written by AI, 1 lines written by hand (99.93% AI-written)
 
-🔤 4,788,055 Input Tokens, 375,033 Output Tokens
+🔤 2,061,279 Input Tokens, 270,544 Output Tokens
 
-💵 $126.06 Estimated AI Cost This Week
+💵 $62.19 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 49 AI Prompts
+🧠 11 AI Sessions, 44 AI Prompts
 
-GPT                      224 lines           █████████████░░░░░░░░░░░░   53.33 % 
-Opus                     196 lines           ████████████░░░░░░░░░░░░░   46.67 % 
+GPT                      1,264 lines         ██████████████████████░░░   86.58 % 
+Opus                     196 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📄 Detailed Prompter — average 858 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 3,445 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +138,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:05:15 UTC
+ Last Updated on 09/09/2026 23:24:10 UTC
 <!--END_SECTION:waka-->
