@@ -89,38 +89,38 @@ Sunday                   535 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-Python                   7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
-TOML                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Markdown                 9 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
+Python                   7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+TOML                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 35 mins (85.27%)
+⏱ AI Coding Time: 19 hrs 35 mins (87.94%)
 
-✍️ 3,591 lines written by AI, 129 lines written by hand (96.53% AI-written)
+✍️ 3,702 lines written by AI, 120 lines written by hand (96.86% AI-written)
 
-🔤 8,813,122 Input Tokens, 698,813 Output Tokens
+🔤 9,179,813 Input Tokens, 721,849 Output Tokens
 
-💵 $95.18 Estimated AI Cost This Week
+💵 $96.64 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 140 AI Prompts
+🧠 33 AI Sessions, 134 AI Prompts
 
-Opus                     2,950 lines         ████████████████████░░░░░   81.22 % 
-GPT                      682 lines           █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Opus                     3,061 lines         ████████████████████░░░░░   81.78 % 
+GPT                      682 lines           █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.53% of written lines came from AI
-📚 Verbose Prompter — average 2,900 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.32% of changed lines were hand-edited
+🤖 AI-Driven — 96.86% of written lines came from AI
+📚 Verbose Prompter — average 3,029 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,5 +136,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 19:16:14 UTC
+ Last Updated on 06/10/2026 23:19:17 UTC
 <!--END_SECTION:waka-->
