@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C588%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C592%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -89,38 +89,38 @@ Sunday                   535 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 8 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Other                    8 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Python                   8 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-JavaScript               2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 11 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.78 % 
+Python                   8 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JavaScript               2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Linux                    32 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 25 mins (86.65%)
+⏱ AI Coding Time: 26 hrs 32 mins (88.05%)
 
-✍️ 10,017 lines written by AI, 553 lines written by hand (94.77% AI-written)
+✍️ 10,931 lines written by AI, 438 lines written by hand (96.15% AI-written)
 
-🔤 10,479,131 Input Tokens, 1,404,590 Output Tokens
+🔤 10,265,560 Input Tokens, 1,506,952 Output Tokens
 
-💵 $166.78 Estimated AI Cost This Week
+💵 $170.54 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 269 AI Prompts
+🧠 77 AI Sessions, 327 AI Prompts
 
-GPT                      11,714 lines        ██████████████████████░░░   89.76 % 
-Opus                     1,337 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+GPT                      12,305 lines        ██████████████████████░░░   87.89 % 
+Opus                     1,696 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.77% of written lines came from AI
-📚 Verbose Prompter — average 2,414 characters per prompt
+🤖 AI-Driven — 96.15% of written lines came from AI
+📚 Verbose Prompter — average 2,166 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 8.96% of changed lines were hand-edited
+🚀 High AI Trust — 11.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,5 +136,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 22:35:33 UTC
+ Last Updated on 22/10/2026 01:46:34 UTC
 <!--END_SECTION:waka-->
